@@ -1,2 +1,2 @@
 # arima-forecasting
-Forecasting San Francisco incident rate using ARIMA
+Forecasting San Francisco incident rate using ARIMA and SARIMAX
